@@ -42,7 +42,7 @@ const Banner = () => {
             >
                 <div className="max-md:grow max-md:flex flex-col justify-center items-start max-w-[544px]">
                     <h1 className="banner-title slide-up-and-fade leading-[.95] text-6xl sm:text-[80px] font-anton">
-                        <span className="text-primary">CYBER</span>
+                        <span className="text-primary">COMPUTER</span>
                         <br /> <span className="ml-4">ENGINEER</span>
                     </h1>
                     <p className="banner-description slide-up-and-fade mt-6 text-lg text-muted-foreground">
@@ -50,9 +50,10 @@ const Banner = () => {
                         <span className="font-medium text-foreground">
                             Athul
                         </span>
-                        . A computer engineering student focused on
-                        cybersecurity, web development, and practical tools
-                        that turn ideas into useful products.
+                        . A computer engineering student focused on web
+                        development and practical tools that turn ideas into
+                        useful products. I&apos;m learning AI automation and
+                        pursuing cybersecurity as a future goal.
                     </p>
                     <Button
                         as="link"
